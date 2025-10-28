@@ -58,9 +58,6 @@ The dataset contains job descriptions with the following key fields:
 **Jayesh Kados**  
 📚 BCA Graduate  | 💼 Data Analyst  
 📍 Sambhaji Nagar (Aurangabad), India  
-🔗 [LinkedIn](www.linkedin.com/in/
-jayeshkados
-) 
 
 ---
 
