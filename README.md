@@ -47,11 +47,6 @@ The dataset contains job descriptions with the following key fields:
 
 ---
 
-## 📈 Dashboard Preview
-![Corporate Dashboard](./dashboard-preview.png)
-
----
-
 ## 🎯 Learnings & Takeaways
 - Enhanced skills in **data visualization** and **interactive reporting**  
 - Improved understanding of **job market analytics** and **skill demand trends**  
@@ -61,9 +56,11 @@ The dataset contains job descriptions with the following key fields:
 
 ## 🧑‍💻 Author
 **Jayesh Kados**  
-📚 BCA Student | 💼 Aspiring Data Analyst  
+📚 BCA Graduate  | 💼 Data Analyst  
 📍 Sambhaji Nagar (Aurangabad), India  
-🔗 [LinkedIn](#) | [Portfolio](#)
+🔗 [LinkedIn](www.linkedin.com/in/
+jayeshkados
+) 
 
 ---
 
@@ -75,6 +72,5 @@ The dataset contains job descriptions with the following key fields:
 ---
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
+This project is open-source and available.
 ---
